@@ -1,0 +1,5 @@
+Flask
+ibm-watson
+json2html
+Werkzeug
+ibm_db

@@ -1,0 +1,6 @@
+---
+applications:
+- name: riley-watson-app
+  random-route: true
+  memory: 512M
+  command: python3 app.py

@@ -1,0 +1,6 @@
+---
+applications:
+ - name: riley-assessment-1
+   random-route: true
+   memory: 256M
+   command: python3 app.py
